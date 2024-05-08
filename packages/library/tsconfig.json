@@ -1,0 +1,3 @@
+{
+  "extends": "@reproduction/tsconfig/tsconfig.base.json"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "get-tsconfig-yarn-workspaces-reproduction",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "git@github.com:nwalters512/get-tsconfig-yarn-workspaces-reproduction.git",
+  "author": "Nathan Sarang-Walters <nwalters512@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.5.0"
+}
