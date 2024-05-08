@@ -2,6 +2,7 @@
   "name": "@reproduction/library",
   "version": "1.0.0",
   "dependencies": {
-    "@reproduction/tsconfig": "workspace:^"
+    "@reproduction/tsconfig": "workspace:^",
+    "get-tsconfig": "^4.7.4"
   }
 }
